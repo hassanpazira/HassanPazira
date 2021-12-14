@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassanpazira
 - 👀 I’m interested in Statistical Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: pazira.b@gmail.com
 
 <!---
